@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 
-public class BOJ14500 {
+public class BOJ14500_테트로미노 {
 	static int[] dx = {0,0,1,-1};
 	static int[] dy = {1,-1,0,0};
 	static int[] h = {7,11,13,14};//0111 1011 1101 1110 .. ㅗ
