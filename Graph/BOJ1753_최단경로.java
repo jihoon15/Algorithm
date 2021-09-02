@@ -46,7 +46,7 @@ public class BOJ1753_최단경로 {
 		visit = new boolean[V+1];
 		dist = new int[V+1];
 		map = new ArrayList[V+1];
-		for(int i = 1; i <=V; i++) map[i] = new ArrayList();
+		for(int i = 1; i <=V; i++) map[i] = new ArrayList<Edge>();
 		
 		int start = Integer.parseInt(br.readLine());
 		
