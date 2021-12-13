@@ -1,4 +1,4 @@
-package SWexpert;
+package BaekJoon.BruteForce;
 
 import java.io.BufferedReader;
 import java.io.IOException;

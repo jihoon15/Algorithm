@@ -1,11 +1,11 @@
-package SWexpert;
+package BaekJoon.BruteForce;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class SW2001 {
+public class SW2001_파리퇴치 {
 	
 	static int max;
 	static int arr[][] = new int[15][15];

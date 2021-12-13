@@ -1,4 +1,4 @@
-package com.ssafy.WebAlgo.w1004;
+package BaekJoon.Graph;
 
 import java.io.BufferedReader;
 import java.io.IOException;

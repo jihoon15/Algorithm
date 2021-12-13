@@ -1,10 +1,10 @@
-package SWexpert;
+package BaekJoon.Etc;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class SW5215 {
+public class SW5215_햄버거다이어트 {
 	static int max = 0;
 	static int num_food;
 	static int max_cal;
